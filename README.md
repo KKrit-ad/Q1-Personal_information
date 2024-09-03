@@ -10,3 +10,5 @@ Front
 1. cd cilent 
 2. npm install
 3. npm run dev
+
+Made by Khomkrit Aindam
