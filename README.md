@@ -1,5 +1,12 @@
 ﻿# Q1-Personal-Information
 Using Mern Stack
 
-cd server 
+Server
+cd server
 npm install
+npm start
+
+Front
+cd cilent 
+npm install
+npm run dev
