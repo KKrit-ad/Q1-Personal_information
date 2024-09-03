@@ -2,11 +2,11 @@
 Using Mern Stack
 
 Server
-cd server
-npm install
-npm start
+1. cd server
+2. npm install
+3. npm start
 
 Front
-cd cilent 
-npm install
-npm run dev
+1. cd cilent 
+2. npm install
+3. npm run dev
